@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.background {
+  text-align: center;
+  background-color: black;
+  height: 100vh;
+  color: #00e7ff;
+}
+.image {
+  /* height: 300px;
+  width: 300px; */
+}
